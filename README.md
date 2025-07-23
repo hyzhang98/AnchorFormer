@@ -1,4 +1,4 @@
-# AnchorFormer: Differentiable Anchor Attention for Efficient Vision Transformer (Pattern Recognition Letters 2025)
+# AnchorFormer: Differentiable Anchor Attention for Efficient Vision Transformer 
 
 ## Introduction
 This is a [Pytorch](https://pytorch.org) implementation of **AnchorFormer**:
